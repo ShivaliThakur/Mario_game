@@ -1,0 +1,51 @@
+.heading{
+    width: 100%;
+
+}
+
+.heading h3{
+    font-size: 25px;
+    display: inline;
+    float:left;
+}
+
+.heading button{
+    float:right;
+    border: 1px solid white;
+   margin-top: 10px;
+}
+
+.big_image{
+    width: 100%;
+}
+
+#sillyButton{
+    font-size:30px;
+}
+
+#status{
+    font-size: 30px;
+}
+
+.myFoot{
+    background-color:rgb(255, 0, 0);
+    color:midnightblue;
+    padding-top:10px;
+    padding-bottom:10px;
+    
+}
+
+.ins_img{
+    width:45%;
+}
+
+.modal-dialog{
+    width:90%;
+}
+
+video{
+    background: url('game_console.png');
+    background-position: center;
+    background-size:cover;
+    padding:25px;
+}
